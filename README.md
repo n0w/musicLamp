@@ -26,4 +26,5 @@ The processing sketch is a modified version of an instructable i read once, i th
 Can't really remember, just posting this because somebody asked me too.
 
 [+] Youtube video of musicLamp in action: http://www.youtube.com/watch?v=gY7ZkgfLY2g
+
 [+] Schematic: http://i42.tinypic.com/ay2j4o.png
